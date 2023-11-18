@@ -3,11 +3,11 @@ Este repositório é dedicado ao armazenamento das atividades práticas do módu
 
 ## Estrutura do Repositório
 
-O repositório é organizado em branches separadas por semana, permitindo o acompanhamento e a visualização específica das atividades desenvolvidas em cada uma delas. A branch `master` é a branch principal e contém a compilação de todas as semanas.
+O repositório é organizado em branches separadas por semana, permitindo o acompanhamento e a visualização específica das atividades desenvolvidas em cada uma delas. A branch `main` é a branch principal e contém a compilação de todas as semanas.
 
 ## Organização das Branches
 
-- `master`: Contém a consolidação de todas as semanas.
+- `main`: Contém a consolidação de todas as semanas.
 - `semana1`: Atividades práticas da primeira semana.
 - `semana2`: Atividades práticas da segunda semana.
 - `semana3`: Atividades práticas da terceira semana.
