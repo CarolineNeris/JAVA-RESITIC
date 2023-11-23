@@ -54,3 +54,34 @@ public class MediaPonderada {
         scanner.close();
     }
 }*/
+
+//RESOLUÇÃO PARCIAL DO EXERCÍCIO 3
+
+/*package execicio3;
+
+//Sem usar métodos podemos fazer dessa maneira 
+
+/*public class ConcatenacaoString {
+	public static void main(String[]args) {
+	String primeiraString ="ola, ";
+	String segundaString = "meu nome é júlia!";
+	
+	String stringConcatenada = primeiraString + segundaString;
+	
+	System.out.println(stringConcatenada);
+	}
+}*/
+
+
+public class ConcatenacaoString {
+	public static String solicitadorString() {
+		return;
+	}
+	public static String concatenadorString() {
+		return;
+	}
+	public static void imprimidorString() {
+		
+	}
+}
+*/
