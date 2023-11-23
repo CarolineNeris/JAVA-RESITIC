@@ -1,13 +1,12 @@
-/*Em Java, uma classe é uma estrutura que define um tipo de objeto. Ela descreve os atributos e comportamentos que os objetos desse tipo terão.
+Em Java, uma classe é uma estrutura que define um tipo de objeto. Ela descreve os atributos e comportamentos que os objetos desse tipo terão.
 
 A diferença entre uma classe e um objeto é que a classe é como um molde, uma especificação que define as propriedades e métodos dos objetos, enquanto o objeto é uma instância específica dessa classe, ou seja, é uma variável que foi criada com base nessa estrutura e ocupa um espaço na memória.
 
 Aqui estão 5 exemplos simples em C++ e em Java:
 
-Exemplo em C++:
-Classe em C++:
-*/
+#### Exemplo em C++:
 
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -28,9 +27,10 @@ int main() {
 
     return 0;
 }
+```
+#### Exemplo em JAVA:
 
-/*Em JAVA:*/
-
+```java
 public class Carro {
     public String marca;
     public int ano;
@@ -47,4 +47,5 @@ public class Main {
         carro1.acelerar();
     }
 }
- 
+
+```
