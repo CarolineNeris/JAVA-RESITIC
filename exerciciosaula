@@ -1,0 +1,56 @@
+---Exercício 1
+/*public class Main {
+public static int soma(int a, int b) {
+        return a + b;
+    }
+
+    public static void main(String[] args) {
+        int num1 = 5;
+        int num2 = 7;
+
+        int resultado = soma(num1, num2);
+
+        System.out.println("A soma de " + num1 + " e " + num2 + " é: " + resultado);
+    }
+}*/
+
+//EXERCICIO2
+/*package exercicio2;
+
+import java.util.Scanner;
+
+public class MediaPonderada {
+
+    public static float calcularMediaPonderada(float nota1, float nota2, float nota3, float peso1, float peso2, float peso3) {
+        float somaPesos = peso1 + peso2 + peso3;
+        float mediaPonderada = (nota1 * peso1 + nota2 * peso2 + nota3 * peso3) / somaPesos;
+        return mediaPonderada;
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Digite a primeira nota: ");
+        float nota1 = scanner.nextFloat();
+
+        System.out.println("Digite o peso da primeira nota: ");
+        float peso1 = scanner.nextFloat();
+
+        System.out.println("Digite a segunda nota: ");
+        float nota2 = scanner.nextFloat();
+
+        System.out.println("Digite o peso da segunda nota: ");
+        float peso2 = scanner.nextFloat();
+
+        System.out.println("Digite a terceira nota: ");
+        float nota3 = scanner.nextFloat();
+
+        System.out.println("Digite o peso da terceira nota: ");
+        float peso3 = scanner.nextFloat();
+
+        float media = calcularMediaPonderada(nota1, nota2, nota3, peso1, peso2, peso3);
+        System.out.println("A média ponderada é: " + media);
+
+        scanner.close();
+    }
+}*/
